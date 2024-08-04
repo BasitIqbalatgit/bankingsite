@@ -12,7 +12,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 
 export const metadata: Metadata = {
   title: "PrimeVault",
-  description: "PrimeVault - The modern banking platform for everyone",
+  description: "PrimeVault - The modern banking platform for everyone.",
   icons: {
     icon:"/icons/logo.svg",
   }
